@@ -1,0 +1,14 @@
+Type-C, GCT USB4105-GF-A
+MCU, STMicro STM32F072CBT6
+LDO, TI TLV71333P
+C, 0603 0.1uF
+R, 0603 10kohm
+D, 1N4148W
+Socket, kailh MX
+screw(case), wilco FCJ-0305
+screw(weight, plate), wilco FLA-0305EB
+screw(pcb), M2x4
+washer(top mount), hirosugi	AAW-0306-10
+Oring gasket, ex)https://amzn.asia/d/0hVTn7yb
+Poron gasket ex)https://amzn.asia/d/01NByUo1
+feet, ex)https://amzn.asia/d/0cEXtiZS
